@@ -1,0 +1,20 @@
+# Kompilyatsiya natijalari
+out/
+*.class
+
+# IDE fayllar
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+
+# OS fayllar
+.DS_Store
+Thumbs.db
+
+# Log fayllar
+*.log
+
+# Node (hisobot skripti uchun)
+node_modules/
